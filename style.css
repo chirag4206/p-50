@@ -1,0 +1,15 @@
+*{
+    background-color: rgb(221, 192, 214);
+}
+IMG {
+    border:dotted;
+    color:rgb(85, 248, 85);
+    border-width: 10px;
+}
+h1{
+    color: #ec2323 ;
+}
+p{
+    font-size: 20;
+    font-family: Verdana;
+}
